@@ -1,0 +1,19 @@
+.alert-text {
+    background-color: #ffc0cb;
+    font-family: "verdana", "DejaVu Sans", "sans-serif";
+}
+
+.reading-font {
+    font-size: 24px;
+}
+
+#secondchild { 
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourthfloor {
+    background-color: #90ee90;
+    font-weight: bold;
+
+}
